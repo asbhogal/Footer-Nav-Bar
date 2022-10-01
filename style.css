@@ -60,7 +60,10 @@ ul > li {
   text-align: center;
   line-height: 40px;
   border-radius: 50%;
-  transition: 0.5s all ease-in-out;
+  transition: all 0.5s ease-in-out;
+  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
 }
 #footer .container .row .footer-col .social-links a:hover {
   color: #24262b;
@@ -78,6 +81,9 @@ ul > li {
   text-decoration: none;
   font-weight: 300;
   transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
 }
 #footer .container .row .footer-col ul li a:hover {
   padding-left: 8px;
