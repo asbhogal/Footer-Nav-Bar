@@ -1,4 +1,10 @@
+<div align="center">
+
 <h1>Footer Navigation Bar</h1>
+
+![](https://api.checklyhq.com/v1/badges/checks/e62b7049-7b61-4353-a5a2-3981e07ccee6?style=for-the-badge&theme=dark) ![](https://api.checklyhq.com/v1/badges/checks/e62b7049-7b61-4353-a5a2-3981e07ccee6?style=for-the-badge&theme=dark&responseTime=true)<br><br> ![GitHub deployments](https://img.shields.io/github/deployments/asbhogal/Footer-Nav-Bar/production?label=DEPLOYMENT%20STATE&style=for-the-badge&labelColor=000) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/asbhogal/Footer-Nav-Bar?style=for-the-badge&labelColor=000) ![GitHub repo size](https://img.shields.io/github/repo-size/asbhogal/Footer-Nav-Bar?color=blueviolet&style=for-the-badge&labelColor=000)
+
+</div>
 
 A simple calculator which allows for basic arithmetic operations. This has been coded using vanilla HTML5 & CSS3 (SCSS).
 
