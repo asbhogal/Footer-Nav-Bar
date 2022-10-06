@@ -4,10 +4,6 @@
         'src/partials/typography',
         'src/partials/variables';
 
-
-
-
-
 #footer {
     background-color: #1e1e1e;
     padding: 60px 30px;
@@ -88,18 +84,5 @@
     }
     ul {
         list-style-type: none;
-    }
-}
-
-@media (max-width: 767px) {
-    .footer-col {
-        width: 50%;
-        margin-bottom: 30px;
-    }
-}
-
-@media (max-width: 330px) {
-    .footer-col {
-        width: auto;
     }
 }
