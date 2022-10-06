@@ -1,3 +1,9 @@
+@import 'src/partials/globals',
+        'src/partials/mixins',
+        'src/partials/responsive',
+        'src/partials/typography',
+        'src/partials/variables';
+
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300&family=Noto+Serif+Display&display=swap');
 
 body {
