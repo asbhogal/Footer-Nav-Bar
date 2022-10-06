@@ -1,10 +1,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300&family=Noto+Serif+Display&display=swap");
-body {
+* {
   margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-ul > li {
-  font-family: "Noto Sans", sans-serif;
+body {
+  margin: 0;
 }
 
 #footer {
@@ -13,11 +15,6 @@ ul > li {
   position: fixed;
   bottom: 0;
   width: 100%;
-}
-#footer * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
 }
 #footer .container {
   max-width: 100%;
@@ -87,6 +84,9 @@ ul > li {
 }
 #footer .container .row .footer-col ul li a:hover {
   padding-left: 8px;
+}
+#footer .container .row .footer-col ul > li {
+  font-family: "Noto Sans", sans-serif;
 }
 #footer ul {
   list-style-type: none;

@@ -4,15 +4,9 @@
         'src/partials/typography',
         'src/partials/variables';
 
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300&family=Noto+Serif+Display&display=swap');
 
-body {
-    margin: 0;
-}
 
-ul > li {
-    font-family: 'Noto Sans', sans-serif;
-}
+
 
 #footer {
     background-color: #1e1e1e;
@@ -20,11 +14,6 @@ ul > li {
     position: fixed;
     bottom: 0;
     width: 100%;
-    * {
-        margin: 0;
-        padding: 0;
-        box-sizing: border-box;
-    }
     .container {
         max-width: 100%;
         margin: auto;
@@ -90,6 +79,9 @@ ul > li {
                     &:hover {
                         padding-left: 8px;
                     }
+                }
+                ul > li {
+                    font-family: 'Noto Sans', sans-serif;
                 }
             }
         }
