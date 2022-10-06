@@ -6,7 +6,7 @@
 
 </div>
 
-A simple calculator which allows for basic arithmetic operations. This has been coded using vanilla HTML5 & CSS3 (SCSS).
+A full-width footer with navigation links for a company (template.) This has been coded using vanilla HTML5 & CSS3 (SCSS) and is fully responsive, with a stylish, modern interface and optimised for the web.
 
 <strong>Features:</strong><br>
   - Dark themed style
