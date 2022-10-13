@@ -8,13 +8,16 @@
 
 A full-width footer with navigation links for a company (template.) This has been coded using vanilla HTML5 & CSS3 (SCSS) and is fully responsive, with a stylish, modern interface and optimised for the web.
 
-<strong>Features:</strong><br>
+<strong>:heavy_check_mark: Features:</strong><br>
   - Dark themed style
   - Fully responsive
   - Optimised for the web
 
-<strong>Stacks Used:</strong><br>
+<strong>:nerd_face: Stacks Used:</strong><br>
 <br>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" alt="css3" width="50" height="50" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50" style="max-width:100%;"></a>
+
+<strong>:link: Links</strong><br>
+ - <a target="_blank" href="https://footer-nav-bar.vercel.app/">Footer Nav Bar</a>
