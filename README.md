@@ -21,3 +21,24 @@ A full-width footer with navigation links for a company (template.) This has bee
 
 <strong>:link: Links</strong><br>
  - <a target="_blank" href="https://footer-nav-bar.vercel.app/">Footer Nav Bar</a>
+
+ <strong>:fountain_pen: Notes</strong>
+ 
+ Forking/cloning this repo to work on yourself is welcomed. Before doing so however, the repo owner strongly advises reading the following:
+
+ ##### PRODUCTION BUILD & DEPLOYMENT #####
+
+ This has been built using Dart SASS and Parcel. To run this in a dev environment, run <code>npm install sass</code> and <code>npm install parcel-bundler</code> in the terminal. Below are Parcel-specific commands for dev and production parsing:
+
+ - <code>npm run dev</code> will run an auto-compile with each change
+  - <code>npm run build</code> will optimise and package the project for client-side interaction
+
+For serverless deployment, ensure the settings has <code>dist</code> configured as the base directory. These can be altered in the <code>package.json</code>
+
+ ##### SOURCE ASSETS #####
+
+ All assets used deemed relevant for this project to be used client-side and cloned to a local computer have been added in their respective directories. Any changes to the files and dirs will need to be adjusted accordingly in the <code>package.json</code>
+
+ ##### PULL REQUESTS #####
+
+While the repo owner is open to new/alternative approaches to the code leveraged in this repo, please kindly note he is only considering PRs pertaining to improved functionality, accessibility or stability. PRs therefore pertaining to design or aesthetics will not be considered at this time. If you would like to discuss these separately, the repo owner will happily do so. You may contact him either via <a href="mailto:amansinghbhogal1@gmail.com">email</a> or via <a href="www.linkedin.com/in/amansinghbhogal">LinkedIn.</a>
