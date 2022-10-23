@@ -28,10 +28,13 @@ A full-width footer with navigation links for a company (template.) This has bee
 
  ##### PRODUCTION BUILD & DEPLOYMENT #####
 
- This has been built using Dart SASS and Parcel. To run this in a dev environment, run <code>npm install sass</code> and <code>npm install parcel-bundler</code> in the terminal. Below are Parcel-specific commands for dev and production parsing:
+ This has been built using Dart SASS and Parcel. To run this in a dev environment, run <code>npm install sass -D</code> and <code>npm install parcel-bundler -D</code> in the terminal. Below are Parcel-specific commands for dev and production parsing:
 
- - <code>npm run dev</code> will run an auto-compile with each change
+  - <code>npx sass --watch src/scss:dist/css</code> (optional)*
+  - <code>npm run dev</code> will run an auto-compile with each change
   - <code>npm run build</code> will optimise and package the project for client-side interaction
+
+*the Parcel Bundler will compile the <code>src</code> and <code>dist</code> code, so this step is optional (ideal for checking SASS compilation beforehand or where Parcel Bundler may not be required. For further commands, see the <a target="_blank" rel="noopener noreferrer" href="https://sass-lang.com/guide">SASS Documentation</a>)
 
 For serverless deployment, ensure the settings has <code>dist</code> configured as the base directory. These can be altered in the <code>package.json</code>
 
