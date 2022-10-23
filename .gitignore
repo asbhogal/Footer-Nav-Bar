@@ -1,1 +1,11 @@
+## LOCAL ENV CONFIG ##
+
 .vscode
+
+## NODE MODULES ##
+
+node_modules
+
+## PARCEL DIRS ##
+
+.cache
